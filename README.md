@@ -4,9 +4,9 @@
 
 Cybersecurity Projects
 ----------------------
-* Wireshark
-* Python
-* Linux Command
+* Wireshark (In Progress)
+* Python (In Progress)
+* Linux Command (In Progress)
 
 <!---
 JasmineH18/JasmineH18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
