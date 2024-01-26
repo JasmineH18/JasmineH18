@@ -1,6 +1,6 @@
 - Hi, I’m @JasmineH18
 - I’m interested in Cybersecurity and looking forward to get an entry level position for it.
-- I’m currently learning Linux commands from THM/HTB, THM Complete Beginner Path, THM Introduction to Python, and Wireshark. Studying Qualys Endpoint Detection and Response.
+- I’m currently learning Linux commands from THM/HTB, THM Complete Beginner Path, THM Python Basics, and Wireshark. Studying Qualys Endpoint Detection and Response.
 
 Cybersecurity Projects
 ----------------------
