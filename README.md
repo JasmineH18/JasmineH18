@@ -4,8 +4,8 @@
 
 Cybersecurity Projects
 ----------------------
+* [Wazuh Lab](https://github.com/JasmineH18/Practicing-Wazuh/tree/main)
 * [Wireshark](https://github.com/JasmineH18/Practicing-Wireshark.git)
-* Wazuh (In Progress)
 * [Python](https://github.com/JasmineH18/Practicing-Python)
 
 
