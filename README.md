@@ -8,7 +8,7 @@ Cybersecurity Projects
 * [Wireshark](https://github.com/JasmineH18/Practicing-Wireshark.git)
 * [Python](https://github.com/JasmineH18/Practicing-Python)
 * Linux Commands (Not started)
-* Vulnerability Scanning with Nmap: Network Scanning (Not Started)
+* Nmap (Not Started)
 
 
 <!---
