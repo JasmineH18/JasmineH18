@@ -7,7 +7,7 @@ Cybersecurity Projects
 * [Wazuh Lab](https://github.com/JasmineH18/Practicing-Wazuh/tree/main)
 * [Wireshark](https://github.com/JasmineH18/Practicing-Wireshark.git)
 * [Python](https://github.com/JasmineH18/Practicing-Python)
-* [Linux Commands](https://github.com/JasmineH18/Linux/tree/main)
+* [Linux](https://github.com/JasmineH18/Linux/tree/main)
 * Nmap (Not Started)
 
 
