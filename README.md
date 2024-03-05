@@ -10,7 +10,7 @@ Cybersecurity Projects
 * [Python](https://github.com/JasmineH18/Practicing-Python)
 * [Linux](https://github.com/JasmineH18/Linux/tree/main)
 * [Nmap](https://github.com/JasmineH18/Nmap/tree/main)
-* [Powershell w/ Active Directory Lab]
+* [Powershell w/ Active Directory Lab](https://github.com/JasmineH18/Powershell)
 
 
 
