@@ -11,6 +11,7 @@ Cybersecurity Projects
 * [Linux](https://github.com/JasmineH18/Linux/tree/main)
 * [Nmap](https://github.com/JasmineH18/Nmap/tree/main)
 * [Windows with Active Directory Lab](https://github.com/JasmineH18/Windows)
+* [Terraform](https://github.com/JasmineH18/Terraform)
 
 
 
