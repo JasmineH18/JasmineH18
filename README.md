@@ -8,6 +8,7 @@ Cybersecurity Projects
 * [Wazuh Lab](https://github.com/JasmineH18/Practicing-Wazuh/tree/main)
 * [Wireshark](https://github.com/JasmineH18/Practicing-Wireshark.git)
 * [Python](https://github.com/JasmineH18/Practicing-Python)
+* [Create video game using Python](https://github.com/JasmineH18/Horror-video-game-Python)
 * [Linux](https://github.com/JasmineH18/Linux/tree/main)
 * [Nmap](https://github.com/JasmineH18/Nmap/tree/main)
 * [Windows with Active Directory Lab](https://github.com/JasmineH18/Windows)
